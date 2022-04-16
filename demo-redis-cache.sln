@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D354C7F1-B4AC-4DF3-A8AC-E336AA26CA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCache.Application", "src\RedisCache.Application\RedisCache.Application.csproj", "{6480635D-6F12-4BCA-99F9-0195CFA05510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6480635D-6F12-4BCA-99F9-0195CFA05510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6480635D-6F12-4BCA-99F9-0195CFA05510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6480635D-6F12-4BCA-99F9-0195CFA05510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6480635D-6F12-4BCA-99F9-0195CFA05510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6480635D-6F12-4BCA-99F9-0195CFA05510} = {D354C7F1-B4AC-4DF3-A8AC-E336AA26CA3D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C3FBDE-40B5-4A0D-8FD1-ABF96D53A669}
+	EndGlobalSection
+EndGlobal
